@@ -18,3 +18,4 @@ C:\Users\GotovtsevAG\source\work\self\physical-basics-of-launch\EjectionLab\PhBL
 C:\Users\GotovtsevAG\source\work\self\physical-basics-of-launch\EjectionLab\PhBL.EjectionLab.Program\obj\Debug\netcoreapp3.1\PhBL.EjectionLab.Program.dll
 C:\Users\GotovtsevAG\source\work\self\physical-basics-of-launch\EjectionLab\PhBL.EjectionLab.Program\obj\Debug\netcoreapp3.1\PhBL.EjectionLab.Program.pdb
 C:\Users\GotovtsevAG\source\work\self\physical-basics-of-launch\EjectionLab\PhBL.EjectionLab.Program\obj\Debug\netcoreapp3.1\PhBL.EjectionLab.Program.genruntimeconfig.cache
+C:\Users\GotovtsevAG\source\work\self\physical-basics-of-launch\EjectionLab\PhBL.EjectionLab.Program\bin\Debug\netcoreapp3.1\MoreLinq.dll

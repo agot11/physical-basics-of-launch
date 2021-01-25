@@ -44,6 +44,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "MoreLinq": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
             "ScottPlot": {
               "target": "Package",
               "version": "[4.0.48, )"

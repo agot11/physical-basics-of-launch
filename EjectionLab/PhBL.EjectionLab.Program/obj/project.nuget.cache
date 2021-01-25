@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TYk0a6r5GjaBLyvRkjknavFrnTgDRmlsq1YwysdBF5l9MBtkul8O9m+/nqH0sK9FMRnpO85GlPGIIizsAx1b5g==",
+  "dgSpecHash": "2+OK5JO5Xethhr4LzmJGClWXSwro/UwHh3f71IxyaXA+BABGmclbaHg7L65hCl6dvFvryj2n2aJYtnH4Jztr7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\GotovtsevAG\\source\\work\\self\\physical-basics-of-launch\\EjectionLab\\PhBL.EjectionLab.Program\\PhBL.EjectionLab.Program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GotovtsevAG\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\GotovtsevAG\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\GotovtsevAG\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
     "C:\\Users\\GotovtsevAG\\.nuget\\packages\\scottplot\\4.0.48\\scottplot.4.0.48.nupkg.sha512",
     "C:\\Users\\GotovtsevAG\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
   ],

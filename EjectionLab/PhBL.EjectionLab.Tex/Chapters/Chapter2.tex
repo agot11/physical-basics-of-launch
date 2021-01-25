@@ -89,21 +89,21 @@ a также $B$ и $\varphi$, коэффициенты потерь в сопл
 Величины $Q_\text{зв}$ и $x_\text{зв}$ характеризуют звуковое сечение - такое, в котором скорость истечения газа равно скорости звука. Сначала определяется координата сечения на оси струи
 
 \begin{equation}
-    \label{eqn:SoundCoord}
+    \label{eqn:SonicCoord}
     x_\text{зв}=(13.28 \sqrt{\gamma M^2} + 11.8) \sqrt[3]{\eta}-23.57.
 \end{equation}
 
 Затем, по данным рассчета геометрии струи определяется радиус этого сечения. С его помощью определяем расход через звуковое сечение
 
 \begin{equation}
-    \label{eqn:SoundConsumption}
-    Q_\text{зв}=0.217 \pi l r_\text{ст}^2,
+    \label{eqn:SonicConsumption}
+    Q_\text{зв}=0.217 \pi l r_\text{ст.зв}^2,
 \end{equation}
 
 где, соответственно
 
 \begin{equation}
-    \label{eqn:SoundVelocity}
+    \label{eqn:SonicVelocity}
     l=\sqrt{\dfrac{\gamma}{RT}} P_\text{в} \sqrt{\dfrac{\gamma+1}{2}}.
 \end{equation}
 
@@ -152,5 +152,14 @@ a также $B$ и $\varphi$, коэффициенты потерь в сопл
     \zeta_\text{п}=0.95 (\sin(\dfrac{\alpha}{2}))^2 + 2.05(\sin(\dfrac{\alpha}{2}))^4.
 \end{equation}
 
-Скорости газа во всех случаях определяются из закона постоянства расхода.
+Для определения этого угла используем схему на \hyperref[fig:LossesScheme]{рис. 2.2.1}.
+По длине струи делим её на конечные участки и определяем на этих учатсках разницу в радиусе границы.
+После чего, определяем угол через арктангенс
+
+\begin{equation}
+    \label{eqn:RotationLossesCoef}
+    \alpha= \arctan (\dfrac{\varDelta r_\text{ст}}{\varDelta x_\text{ст}}).
+\end{equation}
+
+Скорости газа на всех учатсках определяются из закона постоянства расхода.
 

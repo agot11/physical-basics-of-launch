@@ -8,6 +8,6 @@ namespace PhBL.EjectionLab.Program
 
         public double MaxDiameter { get; internal set; }
         public double LavalEndPressure { get; internal set; }
-        public (double coordinate, double radius)[] Geometry { get; internal set; }
+        public (double Coordinate, double RadiusBorder)[] Geometry { get; internal set; }
     }
 }

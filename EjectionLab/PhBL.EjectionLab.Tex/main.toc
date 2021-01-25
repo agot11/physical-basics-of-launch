@@ -6,6 +6,7 @@
 \contentsline {section}{\numberline {2.2}Основные соотношения}{2}{section.8}%
 \contentsline {section}{\numberline {2.3}Потери на эжекцию}{3}{section.13}%
 \contentsline {section}{\numberline {2.4}Потери на местных сопротивлениях}{4}{section.24}%
-\contentsline {chapter}{\numberline {3}Результаты расчета}{6}{chapter.31}%
-\contentsline {section}{\numberline {3.1}Исходные данные}{6}{section.32}%
-\contentsline {chapter}{\numberline {4}Заключение}{7}{chapter.33}%
+\contentsline {chapter}{\numberline {3}Результаты расчета}{6}{chapter.32}%
+\contentsline {section}{\numberline {3.1}Исходные данные}{6}{section.33}%
+\contentsline {section}{\numberline {3.2}Изменения основных величин}{7}{section.34}%
+\contentsline {chapter}{\numberline {4}Заключение}{9}{chapter.39}%
